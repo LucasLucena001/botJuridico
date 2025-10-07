@@ -261,4 +261,4 @@ Para dúvidas sobre o projeto:
 
 ---
 
-**🚀 Pronto para uso! Execute `python main.py --mode web` para começar.**
+**🚀 Pronto para uso! Execute `python install_local` e `python run_local` para começar.**
