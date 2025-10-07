@@ -4,6 +4,11 @@
 
 Sistema completo de chatbot jurídico com classificação automática de intenções e RAG (Retrieval-Augmented Generation) para consultas à legislação brasileira.
 
+## Membros
+- José Lucas Vasconcelos de Lucena
+- Caio Vinicius Carvalho da Rocha
+- João Gabriel Bento Melo de Miranda
+
 ## 🎯 Visão Geral
 
 Este projeto implementa um chatbot jurídico inteligente que:
