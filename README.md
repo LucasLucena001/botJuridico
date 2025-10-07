@@ -266,4 +266,4 @@ Para dúvidas sobre o projeto:
 
 ---
 
-**🚀 Pronto para uso! Execute `python install_local` e `python run_local` para começar.**
+**🚀 Pronto para uso! Execute `python install_local.py` e `python run_local.py` para começar.**
