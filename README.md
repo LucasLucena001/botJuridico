@@ -86,51 +86,7 @@ pip install -r requirements.txt
 
 Certifique-se de que a pasta `dados/` contém os arquivos .txt com a legislação brasileira.
 
-## 💻 Como Usar
 
-### Opção 1: Interface Web (Recomendada)
-
-```bash
-python main.py --mode web
-```
-
-- Abre interface web em `http://localhost:7860`
-- Interface moderna e intuitiva
-- Painéis informativos sobre classificação, confiança e fontes
-- Sistema de feedback integrado
-
-### Opção 2: Interface Linha de Comando
-
-```bash
-python main.py --mode cli
-```
-
-- Interface de chat no terminal
-- Comandos especiais:
-  - `stats`: Ver estatísticas da sessão
-  - `feedback [1-5]`: Avaliar última resposta
-  - `sair`: Encerrar
-
-### Opção 3: Avaliação Completa
-
-```bash
-python main.py --mode eval
-```
-
-- Executa todos os testes automatizados
-- Gera relatório detalhado
-- Salva resultados em JSON
-- Análise de performance completa
-
-### Opção 4: Testes Rápidos
-
-```bash
-python main.py --mode test
-```
-
-- Testes básicos de funcionalidade
-- Verificação rápida do sistema
-- Ideal para validação inicial
 
 ## 📊 Exemplos de Uso
 
